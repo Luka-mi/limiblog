@@ -9,6 +9,10 @@
     <link rel="stylesheet" href="./css/animation.css">
   </head>
   <body>
+
+    <?php 
+    include('layout/navbar.php')
+    ?>
     
     <header class="header-wrapper">
       <div class="container">
